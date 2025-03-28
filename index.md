@@ -3,7 +3,7 @@ layout: splash
 classes:
   - wide
 header:
-  overlay_image: /assets/images/creaweek.jpg
+  overlay_image: /assets/images/groupprojectsheader1.png
   caption: "Do you have a game idea, and you want to explore the options of working with our students?"
 gallery:
   - url: /2024/12/15/fluvia.html

@@ -12,7 +12,7 @@ name: "Digital Arts & Entertainment"
 description: "Create a proof of concept of your game ideas with our students."
 repository: "avadae/game-groupprojects"
 logo: "/assets/images/dae_logo.png"
-
+favicon: "/assets/images/favicon.ico"
 defaults:
 # _posts
   - scope:
