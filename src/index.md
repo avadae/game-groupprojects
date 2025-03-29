@@ -7,7 +7,7 @@ header:
   caption: "Do you have a game idea, and you want to explore the options of working with our students?"
 gallery:
   - url: /2024/12/15/fluvia.html
-    image_path: /assets/images/fluvia_02.jpg
+    image_path: /assets/images/fire/fluvia_02.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/otiv.jpg
