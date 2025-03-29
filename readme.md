@@ -14,5 +14,5 @@ bundle install
 # Run the website (windows)
 
 ```
-bundle exec jekyll server --livereload
+bundle exec jekyll server --livereload -s ./src
 ```
