@@ -59,7 +59,7 @@ Each year we have a testing day where we take the project outside and have the g
 
 When the projects are done we have another full day of pitches. This time the groups pitch the results for the clients and all other students. We take the whole day for this, each project has about 10 minutes to pitch and demonstrate the end result. Afterwards there is a again a networking drink where all the games can be played.
 
-![]({{"/assets/images/pitch.jpg",  | relative_url }})
+![]({{"/assets/images/pitch.jpg"  | relative_url }})
 
 ## Aaand done!
 
