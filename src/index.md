@@ -10,7 +10,7 @@ gallery:
     image_path: /assets/images/fire/fluvia_02.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/otiv.jpg
+  - url: /2023/12/15/otiv.html
     image_path: /assets/images/otiv.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
