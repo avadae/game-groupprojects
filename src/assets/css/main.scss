@@ -1,0 +1,12 @@
+---
+search: false
+---
+
+@charset "utf-8";
+
+@import "variables_overrides.scss";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+@import "overrides.scss";

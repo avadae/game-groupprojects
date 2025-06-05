@@ -11,7 +11,7 @@ subtitle: "Create a POC with our students"
 name: "Digital Arts & Entertainment"
 description: "Create a proof of concept of your game ideas with our students."
 repository: "avadae/game-groupprojects"
-logo: "/assets/images/dae_logo.png"
+logo: "/assets/images/dae_headerlogo.png"
 defaults:
 # _posts
   - scope:
