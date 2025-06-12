@@ -9,12 +9,15 @@ gallery:
   - url: /2024/12/15/fluvia.html
     image_path: /assets/images/fire/fluvia_02.webp
     title: "Project for Fluvia"
+    alt: "Screenshot of the Fluvia project"
   - url: /2023/12/15/otiv.html
     image_path: /assets/images/otiv.webp
     title: "Project for Otiv"
+    alt: "Screenshot of the Otiv project"
   - url: /2023/12/15/mechanimals.html
     image_path: /assets/images/mechanimals.webp
     title: "Project for the province of West Flanders"
+    alt: "Screenshot of the Otterworldly project"
 ---
 
 Every academic year during the first semester, students at [Howest - Digital arts and entertainment](https://www.digitalartsandentertainment.be/) of the majors Game Development, Game Graphics Production, Independent Game Production and Game Sound Integration work in teams of 5-6 people on a game project.
@@ -25,7 +28,7 @@ Here are some examples from previous years
 
 {% include gallery %}
 
-Not only are our own students placed on these projects, we also work with students from the [Royal Conservatoire of Antwerp](https://www.ap-arts.be/en/royal-conservatoire-antwerp), the [Royal Conservatoire of Ghent](https://schoolofartsgent.be/en) and the [Royal Conservatoire of Brussels](https://www.conservatoire.be/en/) for the music of our projects and students from the [Royal Institute for Theather, Cinema and Sound](https://www.ritcs.be/nl/) who write the stories for some of our projects.
+Not only are our own students placed on these projects, we also work with students from the [Royal Conservatoire of Antwerp](https://www.ap-arts.be/en/royal-conservatoire-antwerp), the [Royal Conservatoire of Ghent](https://schoolofartsgent.be/en) and the [Royal Conservatoire of Brussels](https://www.conservatoire.be/en/) for the music of our projects and students from the [Royal Institute for Theater, Cinema and Sound](https://www.ritcs.be/nl/) who write the stories for some of our projects.
 
 Read more about our development process [here](process.html) and if you're interested in working with our students read more about our application process [here](apply.html).
 
