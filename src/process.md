@@ -3,20 +3,20 @@ layout: single
 toc: true
 title: "Our process"
 header:
-  image: /assets/images/groupprojectsheader1.png
+  image: /assets/images/groupprojectsheader1.webp
 gallery-test:
-  - url: /assets/images/testingdays/test01.jpg
-    image_path: /assets/images/testingdays/test01.jpg
-  - url: /assets/images/testingdays/test02.jpg
-    image_path: /assets/images/testingdays/test02.jpg
-  - url: /assets/images/testingdays/test03.jpg
-    image_path: /assets/images/testingdays/test03.jpg
-  - url: /assets/images/testingdays/test04.jpg
-    image_path: /assets/images/testingdays/test04.jpg
-  - url: /assets/images/testingdays/test05.jpg
-    image_path: /assets/images/testingdays/test05.jpg
-  - url: /assets/images/testingdays/test06.jpg
-    image_path: /assets/images/testingdays/test06.jpg
+  - url: /assets/images/testingdays/test01.webp
+    image_path: /assets/images/testingdays/test01.webp
+  - url: /assets/images/testingdays/test02.webp
+    image_path: /assets/images/testingdays/test02.webp
+  - url: /assets/images/testingdays/test03.webp
+    image_path: /assets/images/testingdays/test03.webp
+  - url: /assets/images/testingdays/test04.webp
+    image_path: /assets/images/testingdays/test04.webp
+  - url: /assets/images/testingdays/test05.webp
+    image_path: /assets/images/testingdays/test05.webp
+  - url: /assets/images/testingdays/test06.webp
+    image_path: /assets/images/testingdays/test06.webp
 ---
 
 ## Pitch part 1

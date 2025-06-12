@@ -3,17 +3,17 @@ layout: splash
 classes:
   - wide
 header:
-  overlay_image: /assets/images/groupprojectsheader1.png
+  overlay_image: /assets/images/groupprojectsheader1.webp
   caption: ""
 gallery:
   - url: /2024/12/15/fluvia.html
-    image_path: /assets/images/fire/fluvia_02.jpg
+    image_path: /assets/images/fire/fluvia_02.webp
     title: "Project for Fluvia"
   - url: /2023/12/15/otiv.html
-    image_path: /assets/images/otiv.jpg
+    image_path: /assets/images/otiv.webp
     title: "Project for Otiv"
   - url: /2023/12/15/mechanimals.html
-    image_path: /assets/images/mechanimals.jpg
+    image_path: /assets/images/mechanimals.webp
     title: "Project for the province of West Flanders"
 ---
 

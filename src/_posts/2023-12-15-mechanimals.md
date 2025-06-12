@@ -3,16 +3,16 @@ title: "Otterworldly"
 layout: single
 excerpt: "Project for the province of West-Flanders."
 header:
-  teaser: "/assets/images/mechanimals/mech01.jpg"
-  image: "/assets/images/mechanimals/mech_banner.png"
+  teaser: "/assets/images/mechanimals/mech01.webp"
+  image: "/assets/images/mechanimals/mech_banner.webp"
   alt_text: "A screenshot of the Otterworldly project."
 gallery:
-  - url: /assets/images/mechanimals/mech01.jpg
-    image_path: /assets/images/mechanimals/mech01.jpg
-  - url: /assets/images/mechanimals/mech02.jpg
-    image_path: /assets/images/mechanimals/mech02.jpg
-  - url: /assets/images/mechanimals/mech03.jpg
-    image_path: /assets/images/mechanimals/mech03.jpg
+  - url: /assets/images/mechanimals/mech01.webp
+    image_path: /assets/images/mechanimals/mech01.webp
+  - url: /assets/images/mechanimals/mech02.webp
+    image_path: /assets/images/mechanimals/mech02.webp
+  - url: /assets/images/mechanimals/mech03.webp
+    image_path: /assets/images/mechanimals/mech03.webp
 ---
 
 The Province of West Flanders organized  three editions of the Festival of the Future between 2021 and 2024. On the occasion of the festive opening of the renovated [Provincial Court](https://www.provinciaalhof.be), the last edition of "a festival of the future" called ‘Over-Morgen’ took place.
