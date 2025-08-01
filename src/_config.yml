@@ -3,6 +3,7 @@ url: https://avadae.github.io  # the base hostname and protocol for your site, e
 baseurl: /game-groupprojects     # place folder name if the site is served in a subfolder
 plugins:
   - jekyll-include-cache
+  - jekyll-polyglot
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dark"
 title: "Student Game Projects"
