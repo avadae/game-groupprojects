@@ -1,6 +1,7 @@
 ---
 title: "Otterworldly"
 layout: single
+lang: en
 excerpt: "Project for the province of West-Flanders."
 header:
   teaser: "/assets/images/mechanimals/mech01.webp"
@@ -15,7 +16,7 @@ gallery:
     image_path: /assets/images/mechanimals/mech03.webp
 ---
 
-The Province of West Flanders organized  three editions of the Festival of the Future between 2021 and 2024. On the occasion of the festive opening of the renovated [Provincial Court](https://www.provinciaalhof.be), the last edition of "a festival of the future" called ‘Over-Morgen’ took place.
+The Province of West Flanders organized three editions of the Festival of the Future between 2021 and 2024. On the occasion of the festive opening of the renovated [Provincial Court](https://www.provinciaalhof.be), the last edition of "a festival of the future" called ‘Over-Morgen’ took place.
 
 The challenge for the students was to imagine what the animal world would be like in the future and how will humans and animals co-exist? Robot Animals or MechAnimals will be created to co-exist with animals and humans. Mechanimals will integrate into the animal’s habitat and clean up nature without disrupting it. 
 

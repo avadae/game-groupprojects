@@ -1,7 +1,7 @@
 ---
-title: "Overview of past projects"
+title: "Overzicht van voorbije projecten"
 layout: posts
-lang: en
+lang: nl
 permalink: /posts/
 entries_layout: grid  # Options: list, grid
 show_images: true  # Forces images in grid layout

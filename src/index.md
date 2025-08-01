@@ -1,5 +1,6 @@
 ---
 layout: splash
+lang: en
 classes:
   - wide
 header:

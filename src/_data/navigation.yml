@@ -1,7 +1,7 @@
 main:
   - title: "Our process"
-    url: /process.html
+    url: process/
   - title: "Previous projects"
-    url: /posts/
+    url: posts/
   - title: "Apply"
-    url: /apply.html
+    url: apply/
