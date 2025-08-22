@@ -22,9 +22,9 @@ gallery:
     alt: "Screenshot of the Otterworldly project"
 ---
 
-Elk schooljaar gaan derde-jaars studenten van de opleiding [Digital arts and entertainment](https://www.digitalartsandentertainment.be/) bij Howest aan de slag in teams van 5 tot 6 mensen en werken aan een game project.
+Elk schooljaar gaan derde-jaars studenten van de bachelor opleiding [Digital Arts and Entertainment](https://www.digitalartsandentertainment.be/) bij Howest aan de slag in teams van 5 tot 6 mensen en werken aan een game project.
 
-Studenten krijgen de mogelijkheid om zelf hun eigen projecten te realiseren of ze kunnen ervoor kiezen om bij te dragen aan project dat werd aangedragen door externe bedrijven en organisaties. Het project moet een game zijn, maar dat kan dus ook een zogenoemd "serious game" zijn of een project dat specifieke game technology toepast.
+Studenten krijgen de mogelijkheid om zelf hun eigen projecten te realiseren of ze kunnen ervoor kiezen om bij te dragen aan een project dat werd aangedragen door externe bedrijven en organisaties. Het project moet een game zijn, maar dat kan dus ook een zogenoemd "serious game" zijn of een project dat specifieke game technology toepast.
 
 Hier zijn een aantal voorbeelden van vorige jaren
 
