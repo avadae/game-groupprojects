@@ -4,6 +4,7 @@ baseurl: /game-groupprojects     # place folder name if the site is served in a 
 plugins:
   - jekyll-include-cache
   - jekyll-polyglot
+  - jekyll-sitemap
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dark"
 title: "Student Game Projects"
