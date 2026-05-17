@@ -16,4 +16,10 @@ var store = [{
         "tags": [],
         "url": "/game-groupprojects/2024/12/15/fluvia.html",
         "teaser": "/game-groupprojects/assets/images/fire/fluvia_02.webp"
+      },{
+        "title": "Panamarenko's workshop",
+        "excerpt":"In dit project voor de Panamarenko foundation hebben we een VR applicatie ontwikkeld waarin de speler zich bevindt in een digitale versie van Panamarenko’s workshop. Twee bekende toestellen van de artiest worden voorgeleid aan de speler die ze ze moet herstellen vooraleer ze terug weg vcliegen en rijden. Het project...","categories": [],
+        "tags": [],
+        "url": "/game-groupprojects/2025/12/16/panamarenko.html",
+        "teaser": "/game-groupprojects/assets/images/panamarenko/01.webp"
       }]

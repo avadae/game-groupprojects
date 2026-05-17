@@ -16,4 +16,10 @@ var store = [{
         "tags": [],
         "url": "/game-groupprojects/2024/12/15/fluvia.html",
         "teaser": "/game-groupprojects/assets/images/fire/fluvia_02.webp"
+      },{
+        "title": "Panamarenko's workshop",
+        "excerpt":"In this project for the Panamarenko foundation we developed a VR app in which the player takes the seat in a digital version of Panamarenko’s workshop. Two contraptions made by the artist are presented to the player and require some work, up to you to fix them. The project was...","categories": [],
+        "tags": [],
+        "url": "/game-groupprojects/2025/12/16/panamarenko.html",
+        "teaser": "/game-groupprojects/assets/images/panamarenko/01.webp"
       }]
