@@ -16,3 +16,9 @@ bundle install
 ```
 bundle exec jekyll server --livereload -s ./src
 ```
+
+# Command to convert jpg and png to webp
+
+```
+Get-ChildItem -Path ./* -Include *.jpg, *.png -File | ForEach-Object { cwebp -q 75 $_.FullName -o "$($_.Directory)\$($_.BaseName).webp" }
+```

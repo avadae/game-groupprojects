@@ -19,6 +19,10 @@ gallery:
     image_path: /assets/images/mechanimals.webp
     title: "Project for the province of West Flanders"
     alt: "Screenshot of the Otterworldly project"
+  - url: /2025/12/16/panamarenko.html
+    image_path: /assets/images/panamarenko/01.webp
+    title: "Project for the Panamarenko Foundation"
+    alt: "Screenshot of the Panamarenko's Workshop project"
 ---
 
 Every academic year during the first semester, students at [Howest - Digital arts and entertainment](https://www.digitalartsandentertainment.be/) of the majors Game Development, Game Graphics Production, Independent Game Production and Game Sound Integration work in teams of 5-6 people on a game project.

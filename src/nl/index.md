@@ -20,6 +20,10 @@ gallery:
     image_path: /assets/images/mechanimals.webp
     title: "Project for the province of West Flanders"
     alt: "Screenshot of the Otterworldly project"
+  - url: /nl/2025/12/16/panamarenko.html
+    image_path: /assets/images/panamarenko/01.webp
+    title: "Project voor de Panamarenko Foundation"
+    alt: "Screenshot van het Panamarenko's Workshop project"
 ---
 
 Elk schooljaar gaan derde-jaars studenten van de bachelor opleiding [Digital Arts and Entertainment](https://www.digitalartsandentertainment.be/) bij Howest aan de slag in teams van 5 tot 6 mensen en werken aan een game project.
