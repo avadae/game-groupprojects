@@ -1,7 +1,3 @@
-# Website is live at
-
-https://avadae.github.io/game-groupprojects/
-
 # Instalation (windows)
 
 In an elevated terminal:
