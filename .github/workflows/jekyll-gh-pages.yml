@@ -33,7 +33,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Or the version you use locally
+          ruby-version: '3.4' # Or the version you use locally
           bundler-cache: true # Runs 'bundle install' and caches gems
           cache-version: 1
       - name: Build with Jekyll
