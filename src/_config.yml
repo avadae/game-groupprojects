@@ -24,6 +24,7 @@ defaults:
 languages: ["en", "nl"]
 default_lang: "en"
 exclude_from_localization: ["docs", "assets", "_sass", "_includes"]
+default_lang_in_url: false
 parallel_localization: false
 atom_feed:
   hide: true
