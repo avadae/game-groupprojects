@@ -65,4 +65,4 @@ Zodra de projecten klaar zijn, hebben we nog een hele dag pitches. Deze keer pit
 
 ## En klaar!
 
-En dan zijn we klaar. We leveren alle bronbestanden, de builds, de trailer, screenshots,... alles. Het is dan aan de klant om de proof of concept die we hebben geleverd, goed te gebruiken. Deze website is bedoeld om een aantal van deze resultaten te laten zien. Bekijk de [vorige projecten]({{ "/posts" | relative_url }}) om een idee te krijgen van wat je kunt verwachten.
+En dan zijn we klaar. We leveren alle bronbestanden, de builds, de trailer, screenshots,... alles. Het is dan aan de klant om de proof of concept die we hebben geleverd, goed te gebruiken. Deze website is bedoeld om een aantal van deze resultaten te laten zien. Bekijk de [vorige projecten]({{ "posts/" | relative_url }}) om een idee te krijgen van wat je kunt verwachten.

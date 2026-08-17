@@ -35,12 +35,6 @@ Here are some examples from previous years
 
 Not only are our own students placed on these projects, we also work with students from the [Royal Conservatoire of Antwerp](https://www.ap-arts.be/en/royal-conservatoire-antwerp), the [Royal Conservatoire of Ghent](https://schoolofartsgent.be/en) and the [Royal Conservatoire of Brussels](https://www.conservatoire.be/en/) for the music of our projects and students from the [Royal Institute for Theater, Cinema and Sound](https://www.ritcs.be/nl/) who write the stories for some of our projects.
 
-Read more about our development process [here](process.html) and if you're interested in working with our students read more about our application process [here](apply.html).
+Read more about our development process [here]({{ "process/" | relative_url }}) and if you're interested in working with our students read more about our application process [here]({{ "apply/" | relative_url }}).
 
 Many of our student projects can also be found on [itch.io](https://digitalartsentertainment.itch.io/) and [Steam](https://store.steampowered.com/publisher/dae)!
-
-
-
-
-
-
