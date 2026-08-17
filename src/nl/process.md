@@ -1,8 +1,8 @@
 ---
 layout: single
 lang: nl
-toc: true
 permalink: process/
+toc: true
 title: "Onze werkwijze"
 header:
   image: /assets/images/groupprojectsheader1.webp

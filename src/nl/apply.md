@@ -1,8 +1,8 @@
 ---
 layout: single
 lang: nl
-toc: true
 permalink: apply/
+toc: true
 title: "Een voorstel indienen"
 ---
 
