@@ -1,0 +1,30 @@
+.event-info {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  align-items: center;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.event-details {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  align-items: center;
+}
+
+.event-details p {
+  margin: 0 0 1rem;
+}
+
+.event-info iframe {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .event-info {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}

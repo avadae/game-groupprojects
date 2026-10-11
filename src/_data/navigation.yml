@@ -1,4 +1,6 @@
 main:
+  - title: "Music"
+    url: music/
   - title: "Our process"
     url: process/
   - title: "Previous projects"
