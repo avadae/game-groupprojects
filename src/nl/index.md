@@ -25,39 +25,39 @@ gallery3:
     title: "Project for the Panamarenko Foundation"
     alt: "Screenshot of the Panamarenko's Workshop project"
 gallery:
-  - image_path: /assets/images/gg/xboxgc01.jpg
+  - image_path: /assets/images/gg/xboxgc01.webp
     alt: "Students playing their games"
-  - image_path: /assets/images/gg/xboxgc02.jpg
+  - image_path: /assets/images/gg/xboxgc02.webp
     alt: "Students playing their games"
-  - image_path: /assets/images/gg/xboxgc03.jpg
+  - image_path: /assets/images/gg/xboxgc03.webp
     alt: "Students playing their games"
 gallery2:
   - url: https://store.steampowered.com/app/3367410/What_The_Hack/
-    image_path: /assets/images/gg/whatthehack.png
+    image_path: /assets/images/gg/whatthehack.webp
     alt: "What The Hack"
   - url: https://store.steampowered.com/app/4612780/Into_The_Deep/
-    image_path: /assets/images/gg/intothedeep.jpg
+    image_path: /assets/images/gg/intothedeep.webp
     alt: "Into the deep"
   - url: https://store.steampowered.com/app/4368980/Souper_Bloody/
-    image_path: /assets/images/gg/souperbloody.jpg
+    image_path: /assets/images/gg/souperbloody.webp
     alt: "Souper Bloody"
   - url: https://store.steampowered.com/app/2704280/Fractured_Horizon/
-    image_path: /assets/images/gg/fracturedhorizon.jpg
+    image_path: /assets/images/gg/fracturedhorizon.webp
     alt: "Fractured Horizon"
   - url: https://caramelted.itch.io/freakshow
-    image_path: /assets/images/gg/freakshow.jpg
+    image_path: /assets/images/gg/freakshow.webp
     alt: "Freakshow"
   - url: https://puorferret.itch.io/operation-immagination/
-    image_path: /assets/images/gg/mymachine.png
+    image_path: /assets/images/gg/mymachine.webp
     alt: "My Machine"
   - url: https://vikkever.itch.io/hidden-heroes/
-    image_path: /assets/images/gg/hiddenheroes.png
+    image_path: /assets/images/gg/hiddenheroes.webp
     alt: "Hidden Heroes"
   - url: https://store.steampowered.com/app/1755980/Momentum/
-    image_path: /assets/images/gg/momentum.jpg
+    image_path: /assets/images/gg/momentum.webp
     alt: "Momentum"
   - url: https://store.steampowered.com/app/1856930/Wayward_Harbor/
-    image_path: /assets/images/gg/waywardharbor.jpg
+    image_path: /assets/images/gg/waywardharbor.webp
     alt: "Wayward Harbor"
 ---
 

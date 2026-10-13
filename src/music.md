@@ -18,25 +18,25 @@ A few years later in 2024 we were also joind by the [Conservatoire Royale de Bru
 
 Every year, when the agenda's fit, we try to organize a live performance of the compositions with the accompanying visuals made during the course.
 
-![]({{ "assets/images/music/concert.png" | relative_url }})
+![]({{ "assets/images/music/concert.webp" | relative_url }})
 
 Each year we have now around 20 projects, below is a selection of some of these projects.
 
 ## 2021 - [Wayward Harbor](https://store.steampowered.com/app/1856930/Wayward_Harbor)
 
-![]({{ "assets/images/music/waywardharbor.jpg" | relative_url }})
+![]({{ "assets/images/music/waywardharbor.webp" | relative_url }})
 
 One of our first collaborations, the music for this horror game was composed by Gonçalo Oliveira, student at the Royal Conservatoire of Antwerp. Find his portfolio [here](https://www.goncalooliveira.me/).
 
 ## 2023 - [Fractured Horizon](https://store.steampowered.com/app/2704280/Fractured_Horizon)
 
-![]({{ "assets/images/music/fracturedhorizon.jpg" | relative_url }})
+![]({{ "assets/images/music/fracturedhorizon.webp" | relative_url }})
 
 The music for this magical parkour game was composed by Flo Delvaux, student at the Royal Conservatoire of Ghent who collaborated on many other projects as well. Find her portfolio [here](https://www.flodelvo.com/)
 
 ## 2024 - [What The Hack](https://store.steampowered.com/app/3367410/What_The_Hack)
 
-![]({{ "assets/images/music/whatthehack.jpg" | relative_url }})
+![]({{ "assets/images/music/whatthehack.webp" | relative_url }})
 
 With "What The Hack!" we've won "Best Student Game" at the [Belgian Game Awards of 2025](https://awards.belgiangames.be/bga2025-winners/). The music was composed by Joshua Mas, student at the Royal Conservatoire of Ghent.
 
@@ -44,6 +44,6 @@ With "What The Hack!" we've won "Best Student Game" at the [Belgian Game Awards 
 
 ## 2025 - [Hidden Heroes](https://vikkever.itch.io/hidden-heroes)
 
-![]({{ "assets/images/music/hiddenheroes.png" | relative_url }})
+![]({{ "assets/images/music/hiddenheroes.webp" | relative_url }})
 
 This project was a client project for the community of Nazareth-De Pinte, telling the story of the local resistance during World War 2. The music was composed by Jenny Diana Pillet, student at the Royal Conservatoire of Brussels
